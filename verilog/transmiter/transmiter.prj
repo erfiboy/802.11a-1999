@@ -1,0 +1,7 @@
+verilog work "remote_sources/_/_/_/phase2/ConvolutionalEncoder/Encoder.v"
+verilog work "remote_sources/_/_/_/pahse3/interleaver/interleaver.v"
+verilog work "remote_sources/_/Scramble/Scrambler.v"
+verilog work "remote_sources/_/Scramble/Scrambler_control.v"
+verilog work "control_interleaver.v"
+verilog work "contor_conv.v"
+verilog work "Topmodule.v"

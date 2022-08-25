@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+control_interleaver instance_name (
+    .Clk(Clk), 
+    .Reset(Reset), 
+    .En(En), 
+    .Data(Data), 
+    .Out(Out)
+    );
+
+

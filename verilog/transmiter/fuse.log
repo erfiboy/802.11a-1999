@@ -1,0 +1,31 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o E:/courses/FPGA/Projects/verilog/New folder/transmiter/Topmodule_tb_isim_beh.exe -prj E:/courses/FPGA/Projects/verilog/New folder/transmiter/Topmodule_tb_beh.prj work.Topmodule_tb work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/courses/FPGA/Projects/verilog/New folder/transmiter/remote_sources/_/_/_/phase2/ConvolutionalEncoder/Encoder.v" into library work
+Analyzing Verilog file "E:/courses/FPGA/Projects/verilog/New folder/transmiter/remote_sources/_/_/_/pahse3/interleaver/interleaver.v" into library work
+Analyzing Verilog file "E:/courses/FPGA/Projects/verilog/New folder/transmiter/remote_sources/_/Scramble/Scrambler.v" into library work
+Analyzing Verilog file "E:/courses/FPGA/Projects/verilog/New folder/transmiter/remote_sources/_/Scramble/Scrambler_control.v" into library work
+Analyzing Verilog file "E:/courses/FPGA/Projects/verilog/New folder/transmiter/control_interleaver.v" into library work
+Analyzing Verilog file "E:/courses/FPGA/Projects/verilog/New folder/transmiter/contor_conv.v" into library work
+Analyzing Verilog file "E:/courses/FPGA/Projects/verilog/New folder/transmiter/Topmodule.v" into library work
+Analyzing Verilog file "E:/courses/FPGA/Projects/verilog/New folder/transmiter/Scrambler_descrambler_tb.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "E:/courses/FPGA/Projects/verilog/New folder/transmiter/control_interleaver.v" Line 46: Size mismatch in connection of port <Size>. Formal port size is 12-bit while actual signal size is 1-bit.
+Completed static elaboration
+Compiling module Scrambler
+Compiling module Scrambler_control
+Compiling module Encoder_default
+Compiling module convencoder_control
+Compiling module interleaver
+Compiling module control_interleaver
+Compiling module transmiter
+Compiling module Topmodule_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 9 Verilog Units
+Built simulation executable E:/courses/FPGA/Projects/verilog/New folder/transmiter/Topmodule_tb_isim_beh.exe
+Fuse Memory Usage: 28816 KB
+Fuse CPU Usage: 343 ms

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/courses/FPGA/Projects/verilog/New folder/reciever/Topmodule_tb_isim_beh.exe" -prj "E:/courses/FPGA/Projects/verilog/New folder/reciever/Topmodule_tb_beh.prj" "work.Topmodule_tb" "work.glbl" 

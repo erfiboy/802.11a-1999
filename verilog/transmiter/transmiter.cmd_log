@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "E:/courses/FPGA/Projects/verilog/New folder/transmiter/transmiter.xst" -ofn "E:/courses/FPGA/Projects/verilog/New folder/transmiter/transmiter.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6vlx75tl-ff484-1L "transmiter.ngc" transmiter.ngd  
+map -intstyle ise -p xc6vlx75tl-ff484-1L -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o transmiter_map.ncd transmiter.ngd transmiter.pcf 
+par -w -intstyle ise -ol high -mt off transmiter_map.ncd transmiter.ncd transmiter.pcf 
+trce -intstyle ise -v 3 -s 1L -n 3 -fastpaths -xml transmiter.twx transmiter.ncd -o transmiter.twr transmiter.pcf 

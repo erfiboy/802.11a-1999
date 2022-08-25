@@ -1,0 +1,7 @@
+verilog work "remote_sources/_/_/_/phase2/viterbiDP/viterbi.v"
+verilog work "remote_sources/_/_/_/pahse3/deinterleaver/deinterleaver.v"
+verilog work "remote_sources/_/Descrambler/Descrambler.v"
+verilog work "viterbi_control.v"
+verilog work "remote_sources/_/Descrambler/Descrambler_control.v"
+verilog work "control-deinterleaver.v"
+verilog work "Topmodule.v"

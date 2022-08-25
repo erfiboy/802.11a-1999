@@ -1,0 +1,21 @@
+ISim log file
+Running: E:\courses\FPGA\Projects\verilog\New folder\reciever\Topmodule_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb E:/courses/FPGA/Projects/verilog/New folder/reciever/Topmodule_tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "E:/courses/FPGA/Projects/verilog/New folder/reciever/control-deinterleaver.v" Line 46.  For instance deinterleaved/deinterleaver/, width 12 of formal port Size is not equal to width 1 of actual signal Size.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# restart
+# run all
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Stopped at time : 14 us :  in File "E:/courses/FPGA/Projects/verilog/New folder/reciever/Scrambler_descrambler_tb.v" Line 68 
+# restart
+# run all
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Stopped at time : 14 us :  in File "E:/courses/FPGA/Projects/verilog/New folder/reciever/Scrambler_descrambler_tb.v" Line 68 

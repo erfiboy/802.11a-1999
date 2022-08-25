@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+Viterbidecoder instance_name (
+    .Data(Data), 
+    .Clk(Clk), 
+    .EN(EN), 
+    .Reset(Reset), 
+    .Out(Out)
+    );
+
+

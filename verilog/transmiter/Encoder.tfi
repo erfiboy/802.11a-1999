@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+Encoder instance_name (
+    .Data(Data), 
+    .Clk(Clk), 
+    .Reset(Reset), 
+    .EN(EN), 
+    .Out(Out)
+    );
+
+

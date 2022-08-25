@@ -1,0 +1,129 @@
+Creating log file E:\courses\FPGA\Projects\verilog\New
+folder\transiver\Topmodule_xpa.log.
+Loading device for application Rf_Device from file '6vlx75t.nph' in environment
+C:\Xilinx\14.7\ISE_DS\ISE\.
+   "Topmodule" is an NCD, version 3.2, device xc6vlx75tl, package ff484, speed
+-1l
+
+INFO:Power:1693 - 
+   --------------------------------------------------------------
+                         The power estimate will be calculated using PRODUCTION
+   data.
+   --------------------------------------------------------------
+
+Design load 20% completeDesign load 25% completeDesign load 30% completeDesign load 60% completeDesign load 95% completeDesign load 100% completeRunning Vector-less Activity Propagation
+......
+Finished Running Vector-less Activity Propagation
+Finished Running Vector-less Activity Propagation 0 secs 
+WARNING:Power:1337 - Clock frequency for clock net "Clk_BUFGP" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "Clk_BUFGP/IBUFG" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_437_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_444_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_451_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_458_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_465_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_472_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_479_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_486_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_493_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_500_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_507_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_514_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_521_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_528_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_535_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_542_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_549_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_556_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_563_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_570_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_577_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_584_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_591_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_598_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_605_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_612_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_619_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_626_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_633_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_640_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_647_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_654_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_661_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_668_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_675_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_682_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_689_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_696_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_703_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_710_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_717_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_724_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_731_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_738_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_745_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_752_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_759_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "deinterleaved/deinterleaver/EN_temp_k[5]_OR_766_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_105_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_112_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_119_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_126_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_133_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_140_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_147_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_154_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_161_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_168_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_175_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_182_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_189_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_196_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_203_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_210_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_217_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_224_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_231_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_238_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_245_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_252_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_259_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_266_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_273_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_280_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_287_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_294_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_301_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_308_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_315_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_322_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_329_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_336_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_343_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_350_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_357_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_364_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_371_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_378_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_385_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_392_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_399_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_406_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_413_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_420_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_427_o" is zero.
+WARNING:Power:1337 - Clock frequency for clock net "interleaved/interleaver/EN_temp_k[5]_OR_98_o" is zero.
+WARNING:Power:1369 - Clock frequency for one or more clocks was not found through
+   timing constraints (PCF file) or simulation data.  Without knowing the
+   clock frequency of all clocks, dynamic power information for those clock
+   domains will default to zero which may under-estimate the power for this
+   design.  To avoid this warning, provide at least one of the following:
+     1. The proper timing constraints (PERIOD) for clocks (re-implement design
+        and load the newly generated PCF file into XPower Analyzer)
+     2. A post PAR simulation-generated VCD or SAIF file indicating clock
+        frequencies
+     3. The clock frequency for clocks in the "By Type -> Clocks" view in the
+        XPower Analyzer GUI and then applying "Update Power Analysis"
+
+Design 'Topmodule.ncd' and constraints 'Topmodule.pcf' opened successfully
+

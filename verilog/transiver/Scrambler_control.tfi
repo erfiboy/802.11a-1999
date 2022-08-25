@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+Scrambler_control instance_name (
+    .Clk(Clk), 
+    .MAC_Data(MAC_Data), 
+    .Reset(Reset), 
+    .En(En), 
+    .Out(Out)
+    );
+
+

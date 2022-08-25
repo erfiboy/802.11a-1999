@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+Topmodule instance_name (
+    .Clk(Clk), 
+    .Data(Data), 
+    .Reset(Reset), 
+    .En(En), 
+    .Out(Out)
+    );
+
+
